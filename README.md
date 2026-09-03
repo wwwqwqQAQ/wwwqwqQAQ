@@ -104,9 +104,9 @@ Hi, I'm **chen** — a developer who likes solving real problems with code.
 
 <!-- 需要同仓库 .github/workflows/snake.yml 定时生成;首次需在 Actions 手动 Run 一次 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wwwqwqQAQ/wwwqwqQAQ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wwwqwqQAQ/wwwqwqQAQ/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/wwwqwqQAQ/wwwqwqQAQ/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wwwqwqQAQ/wwwqwqQAQ/output/github-contribution-grid-snake-dark.svg?v=20260903">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wwwqwqQAQ/wwwqwqQAQ/output/github-contribution-grid-snake.svg?v=20260903">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/wwwqwqQAQ/wwwqwqQAQ/output/github-contribution-grid-snake.svg?v=20260903">
 </picture>
 
 ---
