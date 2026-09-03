@@ -79,9 +79,9 @@ Hi, I'm **chen** — a developer who likes solving real problems with code.
 <!-- 连续打卡:自适应明暗主题 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wwwqwqQAQ&theme=github-dark&hide_border=true&v=20260903">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wwwqwqQAQ&theme=default&hide_border=true&v=20260903">
-    <img src="https://streak-stats.demolab.com/?user=wwwqwqQAQ&theme=default&hide_border=true&v=20260903" alt="GitHub streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wwwqwqQAQ&theme=github-dark&hide_border=true&timezone=Asia%2FShanghai&v=20260903">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wwwqwqQAQ&theme=default&hide_border=true&timezone=Asia%2FShanghai&v=20260903">
+    <img src="https://streak-stats.demolab.com/?user=wwwqwqQAQ&theme=default&hide_border=true&timezone=Asia%2FShanghai&v=20260903" alt="GitHub streak">
   </picture>
 </p>
 
