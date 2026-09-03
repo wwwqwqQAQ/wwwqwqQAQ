@@ -111,6 +111,6 @@ Hi, I'm **chen** — a developer who likes solving real problems with code.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wwwqwqQAQ" alt="profile views">
+  <img src="https://access-counter.vercel.app/api/counter?name=wwwqwqQAQ&theme=003&length=6" alt="访客计数 Profile Views">
 </p>
 
