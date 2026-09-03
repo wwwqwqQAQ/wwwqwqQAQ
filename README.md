@@ -114,4 +114,3 @@ Hi, I'm **chen** — a developer who likes solving real problems with code.
   <img src="https://count.getloli.com/get/@wwwqwqQAQ?theme=asoul" alt="visitors">
 </p>
 
-<p align="center"><sub>Built with 🖤 · 主页美化教程参考:[Github 首页美化教程(一)](https://zhuanlan.zhihu.com/p/454597068) · [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) · [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) · [snk](https://github.com/Platane/snk)</sub></p>
