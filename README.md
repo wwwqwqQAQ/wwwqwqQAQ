@@ -59,7 +59,7 @@ Hi, I'm **chen** — a developer who likes solving real problems with code.
 
 ### 📊 GitHub 统计 GitHub Stats
 
-<!-- 统计卡片:自适应明暗主题,数据由 github-readme-stats 实时生成 -->
+<!-- 统计卡片:自适应明暗主题,数据由 github-readme-stats 国内镜像实时生成 -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api?username=wwwqwqQAQ&show_icons=true&theme=github_dark&hide_border=true">
@@ -73,6 +73,15 @@ Hi, I'm **chen** — a developer who likes solving real problems with code.
     <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/top-langs?username=wwwqwqQAQ&layout=compact&theme=github_dark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api/top-langs?username=wwwqwqQAQ&layout=compact&theme=default&hide_border=true">
     <img src="https://stats.programcx.cn/api/top-langs?username=wwwqwqQAQ&layout=compact&theme=default&hide_border=true" alt="Top languages">
+  </picture>
+</p>
+
+<!-- 连续打卡:自适应明暗主题 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wwwqwqQAQ&theme=github-dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wwwqwqQAQ&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=wwwqwqQAQ&theme=default&hide_border=true" alt="GitHub streak">
   </picture>
 </p>
 
