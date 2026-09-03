@@ -62,17 +62,17 @@ Hi, I'm **chen** — a developer who likes solving real problems with code.
 <!-- 统计卡片:自适应明暗主题,数据由 github-readme-stats 实时生成 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wwwqwqQAQ&show_icons=true&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wwwqwqQAQ&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=wwwqwqQAQ&show_icons=true&theme=default&hide_border=true" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api?username=wwwqwqQAQ&show_icons=true&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api?username=wwwqwqQAQ&show_icons=true&theme=default&hide_border=true">
+    <img src="https://stats.programcx.cn/api?username=wwwqwqQAQ&show_icons=true&theme=default&hide_border=true" alt="GitHub stats">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwqwqQAQ&layout=compact&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwqwqQAQ&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwqwqQAQ&layout=compact&theme=default&hide_border=true" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/top-langs?username=wwwqwqQAQ&layout=compact&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api/top-langs?username=wwwqwqQAQ&layout=compact&theme=default&hide_border=true">
+    <img src="https://stats.programcx.cn/api/top-langs?username=wwwqwqQAQ&layout=compact&theme=default&hide_border=true" alt="Top languages">
   </picture>
 </p>
 
@@ -111,6 +111,6 @@ Hi, I'm **chen** — a developer who likes solving real problems with code.
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@wwwqwqQAQ?theme=asoul" alt="visitors">
+  <img src="https://komarev.com/ghpvc/?username=wwwqwqQAQ" alt="profile views">
 </p>
 
