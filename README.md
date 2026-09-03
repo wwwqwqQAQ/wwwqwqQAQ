@@ -91,6 +91,7 @@ Hi, I'm **chen** — a developer who likes solving real problems with code.
 
 | 项目 Project | 一句话介绍 What it does | 技术 Tech |
 |---|---|---|
+| [WWW-forensic](https://github.com/wwwqwqQAQ/WWW-forensic) | **个人数据数字取证** R 包:Benford 首位数字检验 + 稳健异常检测 + Shiny 体检台 + 自包含周报,给账单/睡眠/运动数据做统计体检 | R |
 | [DeskPilot](https://github.com/wwwqwqQAQ/DeskPilot) | **专注台**:任务管理 + 专注计时 + 心流笔记 + 自动文件整理的 Mac 效率工具,本地化、极简、安全 | Tauri 2.0 · React · Rust |
 | [abu3w](https://github.com/wwwqwqQAQ/abu3w) | 阿布量化之上的**量化工具链**:数据获取 · 三涨三跌策略 · 实盘监控 · Claude AI 研判 · macOS 桌面应用 | Python |
 | [R-cheatsheet](https://github.com/wwwqwqQAQ/R-cheatsheet) | **R 语言基础速查手册**:写给《R 语言实战临床预测模型》零基础读者,覆盖向量/数据框/函数/apply 等核心概念 | R |
