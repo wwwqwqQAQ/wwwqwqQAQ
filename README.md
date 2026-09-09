@@ -97,6 +97,7 @@ Hi, I'm **chen** — a developer who likes solving real problems with code.
 | [R-cheatsheet](https://github.com/wwwqwqQAQ/R-cheatsheet) | **R 语言基础速查手册**:写给《R 语言实战临床预测模型》零基础读者,覆盖向量/数据框/函数/apply 等核心概念 | R |
 | [daily-reports](https://github.com/wwwqwqQAQ/daily-reports) | **每日分析日报合集**:A 股、时政、社会、科技、宏观 5 类自动生成日报,一键输出 docx | Python |
 | [R--](https://github.com/wwwqwqQAQ/R--) | **苏北五市招标公告采集**:官方接口抓取 + 合同估算价提取,输出表格报告 | PowerShell · R |
+| [sgzz-bid-design](https://github.com/wwwqwqQAQ/sgzz-bid-design) | **施工组织设计/技术标编制与校核 Skill**:索资收资→参数表→树状多智能体写作→21项机器校核→7项人工复核→Word交付,GPL-3.0 | Python · Skill |
 
 ---
 
